@@ -1,4 +1,4 @@
-训练 epoch=300  batchsize=64 训练结果保存在train-results
+训练 epoch=300  batchsize=64 训练结果保存在train-results（没有预训练）
 
 训练时 采用baseline 在epoch=130达到最好效果
 
