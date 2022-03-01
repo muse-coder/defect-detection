@@ -1,0 +1,1 @@
+train(pretrained yolo5s) 400epochs
